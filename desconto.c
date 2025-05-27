@@ -15,3 +15,12 @@ int main(){
     }
     return 0;
 }
+
+
+
+/* Refaça o exercício do desconto adaptando para um
+desconto progressivo de 10% a 50% utilizando switch case*/
+
+
+
+
